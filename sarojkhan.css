@@ -1,0 +1,106 @@
+body {
+    background-color: #eeebdd;
+    margin: 0px;
+    text-align: center;
+}
+
+.header {
+    background-color: #000000;
+    color: gainsboro;
+    padding: 1px;
+    text-align: start;
+    font-size: small;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3 {
+    margin: 20px auto;
+}
+
+h2 {
+    margin: 40px auto;
+    text-align:left;
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Qwigley', cursive;
+    font-weight: bolder;
+    display: block;
+    color: #7b113a;
+    font-size: 70px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+footer{
+    background-color: #eeebdd ;
+    color: #7b113a;
+    margin-top: 50px;
+}
+hr {
+    border: dotted 4px;
+    border-bottom: none;
+    color: gray;
+    width: 4%;
+    margin: 50px auto;
+    position: center;
+}
+.big{
+    margin-left:500px
+}
+
+.saroj{
+    width: 70%;
+}
+.ind {
+    color: #7b113a;
+    font-size: 20px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+}
+.sub{
+    text-align: center;
+}
+
+p {
+    padding: 5px;
+    margin-top: 0%;
+    text-align: left;
+    line-height: 2;
+    font-family: 'PT Serif', serif;
+}
+
+.column {
+    float: left;
+    width: 25%;
+}
+
+.madhuri {
+    width: 60%;
+}
+
+.sri {
+    width: 70%;
+}
+
+.ash {
+    width: 83%;
+}
+
+.kareena {
+    width: 140%;
+}
+
+.two-part {
+    text-align: center;
+}
+.table {
+    width: 35%;
+  }
+  th, td {
+    padding: 10px;
+    text-align:center;
+  }
+.row{
+    margin-bottom: 500px;
+}
